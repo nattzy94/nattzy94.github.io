@@ -18,17 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Exploratory Analyses
+title: Explanatory Exploration
 email: nattzy94@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  On this page, I will attempt to cover interesting concepts in Biology and
-  Bioinformatics. I also aim to summarize journal articles that I come across
-  whilst browsing the literature. I am also interested in doing ad-hoc
-  exploratory data analyses of published 'omics' data. This page will also
-  serve as a record of my PhD journey.
+  On this page, I will attempt to cover interesting concepts in Biology as well
+  as journal articles that I come across while browsing the literature. A major
+  reason for starting this page is to do ad-hoc data analysis of published
+  'omics'. I hope to sustain my interest in coding and all things computational
+  through this blog. I hope that this page will also serve as a record of my
+  PhD journey.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: ntayzy
 github_username:  nattzy94
 
 # Build settings
